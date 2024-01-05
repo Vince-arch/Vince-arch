@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vince Kimani</h1>
-<h3 align="center">A frontend developer solving problems a single code at a time.</h3>
+<h3 align="center">A frontend developer solving problems a single line of code at a time.</h3>
 
 - 🔭 I’m looking for new opportunities **as a frontend developer**
 
