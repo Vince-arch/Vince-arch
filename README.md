@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vince Kimani</h1>
-<h3 align="center">A frontend developer solving problems a single line of code at a time.</h3>
+<h1 align="center">Hi 👋,  Vince Kimani</h1>
 
 - 🔭 I’m looking for new opportunities **as a frontend developer**
 
-- 🌱 Currently learning **Open source contribution**
+- 🌱 Currently learning **Node.js and Express**
 
-- 👯 Eager to collaborate on **open source projects or any other**
+- 👯 Eager to collaborate on **fullstack or opensource projects**
 
 - 🤝 I’m also open to **freelancing gigs**
 
@@ -13,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://vincekimani.hashnode.dev/](https://vincekimani.hashnode.dev/)
 
-- 💬 Ask me about **react,javascript, open source**
+- 💬 Ask me about **react,javascript,Node.js, Express, open source**
 
 - 📫 How to reach me **vincekimani006@gmail.com**
 
