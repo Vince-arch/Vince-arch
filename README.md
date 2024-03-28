@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋,  Vince Kimani</h1>
 
-- 🔭 I’m looking for new opportunities **as a frontend developer**
-
 - 🌱 Currently learning **Node.js and Express**
 
 - 👯 Eager to collaborate on **fullstack or opensource projects**
