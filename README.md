@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  Vince Kimani</h1>
+<h1 align="center">Hi 👋, I am Vince Kimani</h1>
 
 - 🌱 Currently learning **Node.js and Express**
 
