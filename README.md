@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Vince Kimani</h1>
 
-- 🌱 Currently learning **Node.js and Express**
+- 🌱 Currently learning **Node and Express.js**
 
 - 👯 Eager to collaborate on **fullstack or opensource projects**
 
